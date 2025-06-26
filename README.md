@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rofeeah-Tijani
 - 👀 I’m interested in data and statistical analysis
-- 🌱 I’m currently learning SQL and Power BI
+- 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on open-source of statistical and data analytics projects 
 - 📫 How to reach me: email me at morounrantifeyishara@gmail.com and https://www.linkedin.com/in/rofee-ah-tijani
 - 😄 Pronouns: ...She/her
