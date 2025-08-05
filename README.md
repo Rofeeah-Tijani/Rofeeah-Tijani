@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Rofeeah-Tijani
-- 👀 I’m interested in data and statistical analysis
-- 🌱 I’m currently learning SQL 
-- 💞️ I’m looking to collaborate on open-source of statistical and data analytics projects 
-- 📫 How to reach me: email me at morounrantifeyishara@gmail.com and https://www.linkedin.com/in/rofee-ah-tijani
-- 😄 Pronouns: ...She/her
-- ⚡ Fun fact: ... I love baking
+I am a dedicated Data Analyst with a solid foundation in Statistics, holding a degree from Ladoke Akintola University of Technology. I specialize in data analysis using tools
 
-<!---
-Rofeeah-Tijani/Rofeeah-Tijani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+such as Power BI, Excel, SPSS, and Python. My focus is on transforming data into actionable insights that support informed decision-making.
+
+I am particularly interested in applying data-driven approaches to solve problems in sectors such as healthcare, finance, agriculture, and environmental sciences.
+
