@@ -1,4 +1,4 @@
-I’m a passionate Statistical and Data Analyst, Tutor, and Researcher with a strong academic foundation in statistics from Ladoke Akintola University of Technology. My work lies at the intersection of numbers, patterns, and insights — helping transform raw data into meaningful, actionable outcomes.
+I’m a passionate Data Scientist, Tutor, and Researcher with a strong academic foundation in statistics from Ladoke Akintola University of Technology. My work lies at the intersection of numbers, patterns, and insights — helping transform raw data into meaningful, actionable outcomes.
 
 I specialize in using tools like Excel, Python, Power BI, SQL, and SPSS to analyze data, uncover trends, and support data-driven decision-making. I have handled multiple hands-on projects ranging from exploratory data analysis to predictive modeling, many of which are showcased on my GitHub.
 
