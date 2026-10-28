@@ -59,6 +59,7 @@ I build machine learning and AI systems, and I analyse data to answer business q
 | [Food Delivery Time Prediction](https://github.com/Rofeeah-Tijani/Predictive-Analysis-of-Food-Delivery-Time-Using-Multiple-Linear-Regression) | Multiple linear regression to predict delivery time |
 | [Ridge Regression on Crypto Sentiment](https://github.com/Rofeeah-Tijani/RIDGE--REGRESSION-ON-CRYPTO-SENTIMENT-PREDICTION-) | Ridge regression for crypto sentiment prediction |
 | [Clustered Robust Random Effects](https://github.com/Rofeeah-Tijani/clustered-robust-random-effects) | Panel data model on life expectancy across countries |
+| [Student Performance Prediction](https://github.com/Rofeeah-Tijani/Student-Performance-Prediction) | Logistic regression and decision tree models to flag students at risk of failing, with and without earlier grades as an early-warning test | Python |
 
 ## Data Analytics Projects
 
