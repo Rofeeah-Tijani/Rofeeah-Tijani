@@ -75,7 +75,7 @@ B.Tech in Statistics, Ladoke Akintola University of Technology (LAUTECH), 2024
 
 ## Get in touch
 
-- LinkedIn: [add link]
+- LinkedIn: [https://www.linkedin.com/in/rofee-ah-tijani-713759253]
 - Email: [feyishara161@gmail.com]
 
 I'm open to AI/ML engineering, data science and analytics roles, as well as freelance work and collaborations.
