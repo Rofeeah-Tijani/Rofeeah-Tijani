@@ -66,7 +66,7 @@ I build machine learning and AI systems, and I analyse data to answer business q
 |---|---|---|
 | [Hotel Guest Experience Analysis](https://github.com/Rofeeah-Tijani/Hotel_Guest_Experience_Analysis) | Dashboard on 1,948 hotel guests covering satisfaction, purpose of visit and discovery source | Excel |
 | [Transaction Intelligence Analysis](https://github.com/Rofeeah-Tijani/Transaction-Intelligence-Analysis-Using-SQL) | SQL analysis of transaction data | SQL |
-| [Global Store Sales Performance](https://github.com/Rofeeah-Tijani/YOUR-REPO-NAME) | Dashboard on 9,994 order lines covering sales, profit, cost and quantity by region, state, category, ship mode and sales team | Power BI |
+| [Global Store Sales Performance](https://github.com/Rofeeah-Tijani/Global-Store-Sales-Performance) | Dashboard on 9,994 order lines covering sales, profit, cost and quantity by region, state, category, ship mode and sales team | Power BI |
 
 ---
 
