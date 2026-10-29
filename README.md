@@ -69,7 +69,7 @@ I build machine learning and AI systems, and I analyse data to answer business q
 | [Transaction Intelligence Analysis](https://github.com/Rofeeah-Tijani/Transaction-Intelligence-Analysis-Using-SQL) | SQL analysis of transaction data | SQL |
 | [Global Store Sales Performance](https://github.com/Rofeeah-Tijani/Global-Store-Sales-Performance) | Dashboard on 9,994 order lines covering sales, profit, cost and quantity by region, state, category, ship mode and sales team | Power BI |
 | [Bank Customer Churn Analysis](https://github.com/Rofeeah-Tijani/Bank-Customer-Churn-Analysis) | Churn analysis of 9,997 customers by gender, country, age, balance, salary and number of products, using engineered customer groups | Excel |
-
+| [Hospital Management Database Analysis](https://github.com/Rofeeah-Tijani/Hospital-Management-Database-Analysis) | SQL Server analysis of patients, doctors, appointments, treatments and billing across five linked tables, with patient age groups and billing summaries by month and branch |
 ---
 
 ## Education
